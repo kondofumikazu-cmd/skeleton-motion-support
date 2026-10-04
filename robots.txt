@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kondofumikazu-cmd.github.io/skeleton-motion-support/sitemap.xml
